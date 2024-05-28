@@ -13,7 +13,7 @@
   
 - ✍️ Actualmente estoy aprendiendo GitHub actions y AWS
  
-- 🥰 Tengo 4 años de experiencia en diseño y desarrollo backend/frontend
+- 🥰 Tengo 5 años de experiencia en diseño y desarrollo backend/frontend
   
 - ⚡ Dato curioso: me gustan los desafíos
 
